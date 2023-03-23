@@ -1,4 +1,4 @@
-### Hi there I'm Shahar Moshonov  👋
+### Hi there, I'm Shahar Moshonov  👋
 
 ## 👨🏻‍💻 About Me
 
