@@ -6,11 +6,20 @@
 - 📫 How to reach me:  shaharmosho@gmail.com
 
 
-Connect with me 📫:
+
+### Connect with me 📫:
+
+
+
+
+      
 
 ### Programming Languages 
 
 <img src="https://user-images.githubusercontent.com/117023310/227273273-947221e5-6b54-418d-b092-92518fe9dd18.png" width="35" height="35"> <img src="https://user-images.githubusercontent.com/117023310/227273060-ccb5f827-062b-4791-a5e0-92448a1fc464.png" width="35" height="35"> <img src="https://user-images.githubusercontent.com/117023310/227273373-210cb87c-d7c0-4308-9d26-ae11158532c8.png" width="35" height="35"> <img src="https://user-images.githubusercontent.com/117023310/227272779-0bc164e9-c670-4f22-a808-8f9fa2ec01ce.png" width="35" height="35">
+
+
+
 
 ### Tools 🔧
 
