@@ -1,19 +1,20 @@
-### Hi there 👋
+### Hi there I'm Shahar Moshonov  👋
 
-<!--
-**ShaharMosh/ShaharMosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨🏻‍💻 About Me
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
+- 📖 I’m a second year B.Sc. Computer Science student in Bar-Ilan University.
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me:  shaharmosho@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
+Connect with me 📫:
+
+
 
 Tools 🔧
 
@@ -22,7 +23,4 @@ Tools 🔧
 <img src="https://user-images.githubusercontent.com/117023310/227238951-f7d9baf5-971c-4699-bf8e-16b2ddcd7a99.png" width="35" height="35">
 <img src="https://user-images.githubusercontent.com/117023310/227238990-e0701b59-aee1-4341-b00d-bc76df9903c8.png" width="35" height="35">
 <img src="https://user-images.githubusercontent.com/117023310/227240073-fb3f1372-3491-494c-a687-5cd8a5941af7.png" width="35" height="35">
-<img src="https://user-images.githubusercontent.com/117023310/227244763-b22c19e8-4445-47ba-b2b1-c3bafedeff15.png" width="35" height="35">
-
-
-![image](https://user-images.githubusercontent.com/117023310/227244763-b22c19e8-4445-47ba-b2b1-c3bafedeff15.png)
+<img src="https://user-images.githubusercontent.com/117023310/227245102-58fd4cc1-b1cb-4bd6-a3e5-668d11d777ab.png" width="35" height="35">
