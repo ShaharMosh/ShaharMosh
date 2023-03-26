@@ -10,7 +10,7 @@
 
 
 ### Connect with me 📫:
-[<img src="https://user-images.githubusercontent.com/117023310/227772797-58acf442-e7ee-4f9a-9f85-cc716da45f82.png" width="35" height="35">](www.linkedin.com/in/shahar-moshonov)
+[<img src="https://user-images.githubusercontent.com/117023310/227772797-58acf442-e7ee-4f9a-9f85-cc716da45f82.png" width="35" height="35">](https://www.linkedin.com/in/shahar-moshonov/)
 
 
 
