@@ -2,7 +2,7 @@
 
 ## 👨🏻‍💻 About Me
 
-- 📚 I’m a second year B.Sc. Computer Science student in Bar-Ilan University.
+- 📚 I’m a 3rd year B.Sc. Computer Science student in Bar-Ilan University.
 - I love learning new technologies, and deepening my knowledge of technologies I already know.
 - 🗒️ You can find my resume [here](https://drive.google.com/file/d/10vKz0PtnjRGhP6g0ZWPbi-B-iAzYV7n3/view?usp=sharing).
 - 📫 You can reach me here- shaharmosho@gmail.com
